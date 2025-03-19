@@ -1,4 +1,4 @@
-# WEATHER-DASHBOARD
+# Weather Dashboard
 
 **COMPANY**:CODTECH IT SOLUTIONS
 
